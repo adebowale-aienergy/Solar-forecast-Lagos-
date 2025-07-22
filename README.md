@@ -38,6 +38,7 @@ Files
 - `solar_forecast.ipynb`: Jupyter Notebook with model code
 - `sample_solar_data.csv`: Dummy data for practice
 - `requirements.txt`: Python libraries needed
+- 
 🌍 Author
 
 Adebowale Adeyemi
